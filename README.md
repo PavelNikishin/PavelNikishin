@@ -2,6 +2,7 @@
 
 <!--
 **PavelNikishin/PavelNikishin** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
+- [My notebooks](https://github.com/PavelNikishin/RS-School-ML-intro-notebooks) for ML-intro course by The Rolling Scopes School in 2021Q1
 -->
 
 🔭 I am engaged in data analytics and publish here some of the results of my activities. Usually these are projects, results of participation in competitions or tasks from training courses.
@@ -32,4 +33,4 @@
 
 - [Price forecasting](https://github.com/PavelNikishin/price-forecasting) -  service for evaluating models of forecasting the price of exchange instruments
 
-- [My notebooks](https://github.com/PavelNikishin/RS-School-ML-intro-notebooks) for ML-intro course by The Rolling Scopes School in 2021Q1
+
